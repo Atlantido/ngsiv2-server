@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="ngsi-server" />
+        <module name="ngsi-v1-client" />
+        <module name="ngsi-v1-server" />
+        <module name="ngsi-v2-client" />
+        <module name="ngsi-v2-server" />
+      </profile>
+    </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="ngsi-client" target="1.8" />
+      <module name="ngsi-datamodel-iotagent" target="1.5" />
+      <module name="ngsi-server" target="1.6" />
+      <module name="ngsi-v1-client" target="1.8" />
+      <module name="ngsi-v1-server" target="1.6" />
+      <module name="ngsi-v2-client" target="1.8" />
+      <module name="ngsi-v2-server" target="1.8" />
+    </bytecodeTargetLevel>
+  </component>
+</project>

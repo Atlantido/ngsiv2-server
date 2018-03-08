@@ -1,0 +1,5 @@
+eu\hopu\Initializer.class
+eu\hopu\Ngsi2ParsingHelper.class
+httpMethods\PATCH.class
+eu\hopu\ApplicationConfig.class
+eu\hopu\Ngsi2BaseController.class

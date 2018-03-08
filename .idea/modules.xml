@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/ngsi-datamodel-iotagent.iml" filepath="$PROJECT_DIR$/ngsi-datamodel-iotagent.iml" />
+      <module fileurl="file://$PROJECT_DIR$/client-v1/ngsi-v1-client.iml" filepath="$PROJECT_DIR$/client-v1/ngsi-v1-client.iml" />
+      <module fileurl="file://$PROJECT_DIR$/server-v1/ngsi-v1-server.iml" filepath="$PROJECT_DIR$/server-v1/ngsi-v1-server.iml" />
+      <module fileurl="file://$PROJECT_DIR$/client-v2/ngsi-v2-client.iml" filepath="$PROJECT_DIR$/client-v2/ngsi-v2-client.iml" />
+      <module fileurl="file://$PROJECT_DIR$/server-v2/ngsi-v2-server.iml" filepath="$PROJECT_DIR$/server-v2/ngsi-v2-server.iml" />
+    </modules>
+  </component>
+</project>
